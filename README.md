@@ -1,4 +1,4 @@
-# Challenge - Machine Learning and Computer Vision basis - MecanTronic
+# Challenge - Machine Learning and Computer Vision basis
 
 En el siguiente challenge se abarcan los conceptos básicos de Machine Learning y Computer Vision, tanto la teoría y definiciones como el preprocesamiento y entrenamiento de modelos.
 El mismo consta de 4 secciones:
